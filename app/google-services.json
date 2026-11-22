@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "625559105747",
+    "project_id": "appdevfinalexam-9b761",
+    "storage_bucket": "appdevfinalexam-9b761.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625559105747:android:9a6a7868bcd95aa73ae426",
+        "android_client_info": {
+          "package_name": "com.example.joblistingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMFYdudSPk9D7hJPyNHyWZgUg7wPyzYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625559105747:android:5738c55c8a153d823ae426",
+        "android_client_info": {
+          "package_name": "com.example.puno_handson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMFYdudSPk9D7hJPyNHyWZgUg7wPyzYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625559105747:android:c2d6a5fc1fd27eb53ae426",
+        "android_client_info": {
+          "package_name": "com.example.santosr_handson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMFYdudSPk9D7hJPyNHyWZgUg7wPyzYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
